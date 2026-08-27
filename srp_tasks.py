@@ -101,4 +101,4 @@ if __name__ == "__main__":
     manager.add_task("Prepare for Final Exam", "2024-08-15", priority="medium") 
     manager.list_tasks() 
     manager.mark_task_completed(1) 
-    manager.list_tasks()
+    manager.list_tasks() 
