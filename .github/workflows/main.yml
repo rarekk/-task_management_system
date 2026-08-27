@@ -33,7 +33,7 @@ jobs:
         # black --check . # ถ้าใช้ black 
   
     - name: Run Tests (Conceptual - no actual tests yet) 
-      run: | 
+      run: |
         echo "Running conceptual tests..." 
         # python -m unittest discover # ถ้ามี Unit Tests จริงๆ 
         # pytest # ถ้าใช้ pytest 
